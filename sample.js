@@ -1,1 +1,2 @@
 var funny;
+var name;
