@@ -1,1 +1,2 @@
-let tes;
+let one;
+let two;
